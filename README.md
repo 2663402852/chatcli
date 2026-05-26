@@ -1,5 +1,7 @@
 # ChatCLI
 
+[English](README.md) | [中文](README_zh.md)
+
 [![npm version](https://img.shields.io/npm/v/@xiami_master/chatcli.svg)](https://www.npmjs.com/package/@xiami_master/chatcli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18-brightgreen.svg)](https://nodejs.org/)
