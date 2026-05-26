@@ -1,6 +1,6 @@
 # ChatCLI
 
-[![npm version](https://img.shields.io/npm/v/chatcli.svg)](https://www.npmjs.com/package/chatcli)
+[![npm version](https://img.shields.io/npm/v/@xiami_master/chatcli.svg)](https://www.npmjs.com/package/@xiami_master/chatcli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18-brightgreen.svg)](https://nodejs.org/)
 [![CI](https://github.com/2663402852/chatcli/actions/workflows/ci.yml/badge.svg)](https://github.com/2663402852/chatcli/actions)
@@ -27,7 +27,7 @@ Supports any OpenAI-compatible API — OpenAI, Claude, DeepSeek, Ollama, and mor
 ## Install
 
 ```bash
-npm install -g chatcli
+npm install -g @xiami_master/chatcli
 ```
 
 ## Quick Start
