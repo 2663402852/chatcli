@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+dist/
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Config
+.chatcli/
+
+# Encryption key (NEVER commit this)
+.encryption_key
+**/.encryption_key
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

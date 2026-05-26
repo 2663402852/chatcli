@@ -1,0 +1,30 @@
+# Source (publish dist only)
+src/
+*.ts
+*.tsx
+tsconfig.json
+
+# Dev files
+.claude/
+.vscode/
+.idea/
+node_modules/
+
+# Build artifacts we don't need
+*.map
+
+# Database / secrets
+*.db
+*.db-shm
+*.db-wal
+.encryption_key
+**/.encryption_key
+.chatcli/
+
+# Misc
+.DS_Store
+Thumbs.db
+*.log
+.github/
+CONTRIBUTING.md
+CHANGELOG.md
