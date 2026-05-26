@@ -1,5 +1,5 @@
 {
-  "name": "chatcli",
+  "name": "@xiami_master/chatcli",
   "version": "0.1.1",
   "description": "Terminal AI Chat Client with beautiful UI",
   "type": "module",
